@@ -14,7 +14,7 @@ export const projectList = [
     path: "https://chavdamsohil.github.io/todo/",
   },
   {
-    name: "ZealAudio",
+    name: "ZealAudio e-commerce app",
     image: zealAudio,
     skills: "html,javascript,css,react js",
     path: "https://zeal-audio2.vercel.app/ ",
