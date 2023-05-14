@@ -1,6 +1,6 @@
 import todoApp from "../components/images/todo.jpg";
 import calc from "../components/images/calculator.jpg";
-import shop from "../components/images/shopping.jpg";
+
 import DiceGame from "../components/images/pig.jpg";
 import pooja from "../components/images/pooja.jpg";
 import guess from "../components/images/guess.jpg";
