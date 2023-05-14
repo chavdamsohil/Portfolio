@@ -1,0 +1,114 @@
+.home {
+  width: 100%;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  background-color: #eeeeee;
+  color: #222831;
+}
+.logo img {
+  height: 100px;
+  width: 100px;
+}
+.name {
+  font-family: "Poppins", sans-serif;
+}
+
+.about {
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #222831;
+  color: #eeeeee;
+}
+.about span {
+  color: #00adb5;
+}
+
+.about h2 {
+  font-family: "Poppins", sans-serif;
+
+  font-size: 80px;
+  color: #eeeeee;
+  height: 50px;
+}
+
+.about .prompt {
+  width: 40%;
+  font-size: 30px;
+}
+.prompt svg {
+  font-size: 60px;
+  margin: 5px;
+  color: #eeeeee;
+}
+.prompt svg :hover {
+  color: #00adb5;
+  transition: 0.1s ease-in;
+}
+
+.skills {
+  font-size: 35px;
+  width: 100%;
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.skills h2 {
+  color: #222831;
+}
+
+.list span {
+  font-size: 20px;
+}
+.skillslogos {
+  display: flex;
+  justify-content: center;
+}
+.skillslogos img {
+  margin: 10px;
+}
+.item {
+  align-items: center;
+  text-decoration: none;
+  background-color: #eeeeee;
+}
+
+.item h3 {
+  margin: auto;
+  margin-bottom: 20px;
+  text-align: center;
+}
+@media only screen and (max-width: 700px) {
+  .about h2 {
+    font-size: 40px;
+  }
+
+  .about .prompt {
+    margin-top: 10px;
+    font-size: 20px;
+    width: 80%;
+  }
+
+  .skills {
+    text-align: center;
+    height: 100px;
+  }
+  .list {
+    padding: 0;
+  }
+
+  .skills h3 {
+    font-size: 30px;
+  }
+  .skillslogos img {
+    height: 75px;
+    width: 75px;
+  }
+}
