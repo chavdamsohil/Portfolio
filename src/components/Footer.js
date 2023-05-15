@@ -13,7 +13,7 @@ function Footer() {
         <a href="https://twitter.com">
           <TwitterIcon />
         </a>
-        <a href="https://mail.google.com">
+        <a href="mailto:chavdamsohil@gmail.com">
           <Email />
         </a>
         <a

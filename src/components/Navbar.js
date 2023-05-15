@@ -25,7 +25,7 @@ function Navbar() {
         </button>
       </div>
       <div className="links">
-        <img src={logo} alt="Sohil Logo" className="logo"></img>
+        {/* <img src={logo} alt="Sohil Logo" className="logo"></img> */}
         <Link to="/"> Home </Link>
         <Link to="/projects"> Projects </Link>
         <Link to="/experience"> Experience </Link>

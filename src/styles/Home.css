@@ -5,97 +5,61 @@
   background-color: #eeeeee;
   color: #222831;
 }
-.logo img {
-  height: 100px;
-  width: 100px;
-}
 .name {
   font-family: "Poppins", sans-serif;
 }
-
 .about {
   width: 100%;
-  height: calc(100vh - 100px);
+  height: 30rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-color: #222831;
-  color: #eeeeee;
+  color: #222831;
+  background-color: #eeeeee;
 }
 .about span {
-  color: #00adb5;
+  background: -webkit-linear-gradient(45deg, red, blue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .about h2 {
   font-family: "Poppins", sans-serif;
-
-  font-size: 80px;
-  color: #eeeeee;
-  height: 50px;
+  color: #222831;
+  font-size: 3.5rem;
 }
 
 .about .prompt {
-  width: 40%;
-  font-size: 30px;
+  font-size: 1.8rem;
 }
 .prompt svg {
-  font-size: 60px;
-  margin: 5px;
-  color: #eeeeee;
+  font-size: 2.5rem;
+  margin: 10px;
+  color: #222831;
 }
-.prompt svg :hover {
-  color: #00adb5;
-  transition: 0.1s ease-in;
-}
-
-.skills {
-  font-size: 35px;
-  width: 100%;
-  height: 350px;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-}
-
-.skills h2 {
+.prompt p {
+  font-size: 2rem;
   color: #222831;
 }
 
-.list span {
-  font-size: 20px;
+.skills {
+  margin-bottom: 5rem;
 }
+
 .skillslogos {
+  margin-top: 2rem;
   display: flex;
   justify-content: center;
 }
+
 .skillslogos img {
-  margin: 10px;
-}
-.item {
-  align-items: center;
-  text-decoration: none;
-  background-color: #eeeeee;
+  height: 6rem;
+  width: 6rem;
 }
 
-.item h3 {
-  margin: auto;
-  margin-bottom: 20px;
-  text-align: center;
-}
 @media only screen and (max-width: 700px) {
-  .about h2 {
-    font-size: 40px;
-  }
-
-  .about .prompt {
-    margin-top: 10px;
-    font-size: 20px;
-    width: 80%;
-  }
-
   .skills {
     text-align: center;
     height: 100px;
