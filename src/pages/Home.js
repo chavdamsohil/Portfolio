@@ -14,7 +14,7 @@ import Experience from "./Experience";
 
 function Home() {
   return (
-    <div className="home" data-aos="zoom-in-up">
+    <div className="home">
       <div className="about">
         <h2 className="name">
           Hi,My Name is <span>Sohil</span>
