@@ -1,6 +1,5 @@
 import todoApp from "../components/images/todo.jpg";
-import calc from "../components/images/calculator.jpg";
-
+import calc from "../components/images/calculator.png";
 import DiceGame from "../components/images/pig.jpg";
 import pooja from "../components/images/pooja.jpg";
 import guess from "../components/images/guess.jpg";
@@ -23,7 +22,7 @@ export const projectList = [
     name: "Calculator",
     image: calc,
     skills: "Html,Javascript,CSS,React js",
-    path: "https://chavdamsohil.github.io/GuessMyNumber/ ",
+    path: "https://calculator-7ghy9242l-chavdamsohil.vercel.app/",
   },
   {
     name: "Guess My No Game",
