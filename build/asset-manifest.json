@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.85e473ea.css",
-    "main.js": "/static/js/main.d397380f.js",
+    "main.js": "/static/js/main.fff03ffb.js",
+    "static/media/zealsanitation.png": "/static/media/zealsanitation.691ed41b87b647059d2f.png",
     "static/media/ZealAudio.png": "/static/media/ZealAudio.c873fdab11fa76c20de2.png",
     "static/media/react.png": "/static/media/react.becbab0ab5d2271d2831.png",
-    "static/media/pooja.jpg": "/static/media/pooja.565da6802215a03a49eb.jpg",
     "static/media/calculator.png": "/static/media/calculator.380cd25cf1e80390d598.png",
     "static/media/guess.jpg": "/static/media/guess.6d71476f381b2daf46b9.jpg",
     "static/media/js.png": "/static/media/js.166865dacb77d214f485.png",
@@ -13,10 +13,10 @@
     "static/media/git.png": "/static/media/git.7d664489ed331806ddc8.png",
     "index.html": "/index.html",
     "main.85e473ea.css.map": "/static/css/main.85e473ea.css.map",
-    "main.d397380f.js.map": "/static/js/main.d397380f.js.map"
+    "main.fff03ffb.js.map": "/static/js/main.fff03ffb.js.map"
   },
   "entrypoints": [
     "static/css/main.85e473ea.css",
-    "static/js/main.d397380f.js"
+    "static/js/main.fff03ffb.js"
   ]
 }

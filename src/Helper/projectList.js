@@ -1,7 +1,7 @@
 import todoApp from "../components/images/todo.jpg";
 import calc from "../components/images/calculator.png";
 import DiceGame from "../components/images/pig.jpg";
-import pooja from "../components/images/pooja.jpg";
+import zealsanitation from "../components/images/zealsanitation.png";
 import guess from "../components/images/guess.jpg";
 import zealAudio from "..//components/images/ZealAudio.png";
 
@@ -38,8 +38,8 @@ export const projectList = [
   },
   {
     name: " Landing page",
-    image: pooja,
+    image: zealsanitation,
     skills: "html,javascript,css",
-    path: "https://chavdamsohil.github.io/poojasanitation/ ",
+    path: "https://zealsanitation.vercel.app/",
   },
 ];
